@@ -1,7 +1,7 @@
 import json
 import os
 import requests
-impport pyowm
+import pyowm
 
 from flask import Flask
 from flask import request
