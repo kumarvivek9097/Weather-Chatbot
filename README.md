@@ -1,2 +1,2 @@
 # webhook
-App for weather forecast
+Chatbot for weather forecast
